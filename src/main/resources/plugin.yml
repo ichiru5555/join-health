@@ -1,0 +1,4 @@
+name: SatuRegen
+version: '${project.version}'
+main: org.ichiru.saturegen.SatuRegen
+api-version: '1.20'
